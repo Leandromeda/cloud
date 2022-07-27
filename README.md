@@ -1,4 +1,4 @@
-# Google Cloud Computing Foundations
+# Google Cloud Computing Foundational Data, ML and AI Tasks
 
 - Desafio 1: [Create and Manage Cloud Resources](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources)
 
