@@ -10,10 +10,10 @@
 
 ## Selos de Habilidade
 
-[![image](https://user-images.githubusercontent.com/105340567/181347358-b2569f49-ca98-4af6-b5be-cef5e96888e8.png)](https://www.cloudskillsboost.google/quests/117)  [![image](https://user-images.githubusercontent.com/105340567/181347630-4e592753-b55a-4b78-8695-5de64d78cb8b.png)](https://www.cloudskillsboost.google/quests/118)
+[![image](https://user-images.githubusercontent.com/105340567/181347630-4e592753-b55a-4b78-8695-5de64d78cb8b.png)](https://www.cloudskillsboost.google/quests/118)
+[![image](https://cdn.qwiklabs.com/lO0Ku9PDJKa%2BLu5jOuYzCharH2WfqXog1ftv%2FQJUy7E%3D)](https://www.cloudskillsboost.google/quests/146)
 
-[![image](https://cdn.qwiklabs.com/lO0Ku9PDJKa%2BLu5jOuYzCharH2WfqXog1ftv%2FQJUy7E%3D)](https://www.cloudskillsboost.google/quests/146)  [![image](https://cdn.qwiklabs.com/olO5jcOBH%2Bg6T%2B9YLVjDrlZq6ZKRepYzu83xll7Vj2o%3D)](https://www.cloudskillsboost.google/quests/136)
-
+[![image](https://cdn.qwiklabs.com/olO5jcOBH%2Bg6T%2B9YLVjDrlZq6ZKRepYzu83xll7Vj2o%3D)](https://www.cloudskillsboost.google/quests/136)
 [![image](https://cdn.qwiklabs.com/kDECsuCGYyvb7cSuAU8xY%2BKR0K90JjVxU%2FnFEsKQ%2FDY%3D)](https://www.cloudskillsboost.google/quests/127)
 
 #
