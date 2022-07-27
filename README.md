@@ -16,7 +16,7 @@
 [![image](https://user-images.githubusercontent.com/105340567/181280160-0b14d642-f92f-4597-914b-78e99655cc84.png)](https://www.cloudskillsboost.google/quests/128)
 [![image](https://user-images.githubusercontent.com/105340567/181280303-e8b36330-c6b8-4ffc-aef1-df6e5f0e6d47.png)](https://www.cloudskillsboost.google/quests/117)
 
-## Selos dos Cursos
+## Selos dos Cursos (Bônus)
 
 [![image](https://user-images.githubusercontent.com/105340567/181305347-dacad484-61c8-44d3-b13f-20ed68d7ce89.png)](https://google.qwiklabs.com/course_templates/153)
 [![image](https://user-images.githubusercontent.com/105340567/181305523-add9128a-3af5-4ccd-aeb4-1126eaa5572b.png)](https://google.qwiklabs.com/course_templates/154)
