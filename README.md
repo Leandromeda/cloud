@@ -3,13 +3,19 @@
 
 - Desafio 1: [Create and Manage Cloud Resources](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources)
 
+![image](https://user-images.githubusercontent.com/105340567/181279712-62693cfd-a8ff-4ab3-adbb-1093b6d1fe28.png)
+
 - Desafio 2: [Perform Foundational Infraestructure Tasks](https://github.com/Leandromeda/Cloud/wiki/Desafio-2-%7C-Perform-Foundational-Infraestructure-Tasks)
+
+![image](https://user-images.githubusercontent.com/105340567/181280073-6c5c67ec-55fd-4d2f-9210-0bd5847a5d71.png)
 
 - Desafio 3: [Build and Secure Networks](https://github.com/Leandromeda/Cloud/wiki/Desafio-3-%7C-Build-and-Secure-Networks)
 
+![image](https://user-images.githubusercontent.com/105340567/181280160-0b14d642-f92f-4597-914b-78e99655cc84.png)
+
 - Desafio 4: [Perform Foundational Data, ML and AI Tasks](teste)
 
-
+![image](https://user-images.githubusercontent.com/105340567/181280303-e8b36330-c6b8-4ffc-aef1-df6e5f0e6d47.png)
 
 
 
