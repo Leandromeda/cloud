@@ -1,12 +1,12 @@
 # Google Cloud Computing Data, ML and AI Tasks
 
-- Desafio 1: [Explore Machine Learning Models with BigQuery ML](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources)
+- Desafio 1: [Explore Machine Learning Models with BigQuery ML](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Explore-Machine-Learning-Models-with-BigQuery-ML)
 
-- Desafio 2: [Create ML Models with BigQuery ML](https://github.com/Leandromeda/Cloud/wiki/Desafio-2-%7C-Perform-Foundational-Infraestructure-Tasks)
+- Desafio 2: [Create ML Models with BigQuery ML](https://github.com/Leandromeda/Cloud/wiki/Desafio-2-%7C-Create-ML-Models-with-BigQuery-ML)
 
-- Desafio 3: [Integrate with Machine Learning API’s](https://github.com/Leandromeda/Cloud/wiki/Desafio-3-%7C-Build-and-Secure-Networks)
+- Desafio 3: [Integrate with Machine Learning API’s](https://github.com/Leandromeda/Cloud/wiki/Desafio-3-%7C-Integrate-with-Machine-Learning-API%E2%80%99s)
 
-- Desafio 4: [Automate Interactions with Contact Center AI](https://github.com/Leandromeda/Cloud/wiki/Desafio-4-%7C-Perform-Foundational-Data,-ML-and-AI-Tasks)
+- Desafio 4: [Automate Interactions with Contact Center AI](https://github.com/Leandromeda/Cloud/wiki/Desafio-4-%7C-Automate-Interactions-with-Contact-Center-AI)
 
 ## Selos de Habilidade
 
