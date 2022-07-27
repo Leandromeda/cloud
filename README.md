@@ -1,9 +1,13 @@
 # Google Cloud Computing Foundations
 
+
 Desafio 1: https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources
 
+Desafio 2: em breve! 
 
+Desafio 3: em breve!
 
+Desafio 4: em breve!
 
 
 
