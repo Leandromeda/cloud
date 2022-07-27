@@ -8,13 +8,13 @@
 
 - Desafio 4: [Perform Foundational Data, ML and AI Tasks](teste)
 
-## Selos de Cursos
+## Selos dos Cursos
 
 ![image](https://user-images.githubusercontent.com/105340567/181305347-dacad484-61c8-44d3-b13f-20ed68d7ce89.png)  ![image](https://user-images.githubusercontent.com/105340567/181305523-add9128a-3af5-4ccd-aeb4-1126eaa5572b.png)
 
 ![image](https://user-images.githubusercontent.com/105340567/181305860-ba07d15d-9e4e-4dab-a8e4-776353ecbed2.png)  ![image](https://user-images.githubusercontent.com/105340567/181305904-92bd7ae4-6e25-4142-bed0-ad2583cd0811.png)
 
-## Selos de Habilidades
+## Selos de Habilidade
 
 ![image](https://user-images.githubusercontent.com/105340567/181279712-62693cfd-a8ff-4ab3-adbb-1093b6d1fe28.png)  ![image](https://user-images.githubusercontent.com/105340567/181280073-6c5c67ec-55fd-4d2f-9210-0bd5847a5d71.png)
 
