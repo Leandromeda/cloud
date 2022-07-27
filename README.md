@@ -6,7 +6,7 @@
 
 - Desafio 3: [Build and Secure Networks](https://github.com/Leandromeda/Cloud/wiki/Desafio-3-%7C-Build-and-Secure-Networks)
 
-- Desafio 4: [Perform Foundational Data, ML and AI Tasks](teste)
+- Desafio 4: [Perform Foundational Data, ML and AI Tasks](https://github.com/Leandromeda/Cloud/wiki/Desafio-4-%7C-Perform-Foundational-Data,-ML-and-AI-Tasks)
 
 ## Selos dos Cursos
 
