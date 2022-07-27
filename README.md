@@ -10,7 +10,7 @@
 
 ## Selos de Habilidade
 
-[![image](https://user-images.githubusercontent.com/105340567/181347630-4e592753-b55a-4b78-8695-5de64d78cb8b.png)](https://www.cloudskillsboost.google/quests/118)
+[![image](https://user-images.githubusercontent.com/105340567/181347630-4e592753-b55a-4b78-8695-5de64d78cb8b.png)](https://www.cloudskillsboost.google/quests/126)
 [![image](https://cdn.qwiklabs.com/lO0Ku9PDJKa%2BLu5jOuYzCharH2WfqXog1ftv%2FQJUy7E%3D)](https://www.cloudskillsboost.google/quests/146)
 
 [![image](https://cdn.qwiklabs.com/olO5jcOBH%2Bg6T%2B9YLVjDrlZq6ZKRepYzu83xll7Vj2o%3D)](https://www.cloudskillsboost.google/quests/136)
