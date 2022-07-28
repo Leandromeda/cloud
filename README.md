@@ -1,6 +1,6 @@
 # Google Cloud Computing Data, ML and AI Tasks
 
-- Desafio 1: [Explore Machine Learning Models with BigQuery ML](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Explore-Machine-Learning-Models-with-BigQuery-ML)
+- Desafio 1: [Explore Machine Learning Models with Explainable AI](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Explore-Machine-Learning-Models-with-BigQuery-ML)
 
 - Desafio 2: [Create ML Models with BigQuery ML](https://github.com/Leandromeda/Cloud/wiki/Desafio-2-%7C-Create-ML-Models-with-BigQuery-ML)
 
