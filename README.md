@@ -1,7 +1,11 @@
 # Introdução
 
-- [Inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true)
-- [Solicitação de Créditos ao Professor](https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_AUG22-82)
+- Crie uma conta Google;
+- Faça a [inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true) no Google Skill Boost pelo SENAI;
+- Saia da conta Google Skill Boost;
+- Acesse o link do [laboratório introdutório](https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_AUG22-82);
+- Inicie o laboratório e aguarde 7 minutos;
+- Finalize o laboratório e verifique se você recebeu 201 créditos.
 
 # Google Cloud Computing Foundations
 
