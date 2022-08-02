@@ -1,5 +1,7 @@
 INSCRIÇÃO: [CLIQUE AQUI!](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true)
 
+Créditos: [AQUI](https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_AUG22-82)
+
 # Google Cloud Computing Foundations
 
 - Desafio 1: [Create and Manage Cloud Resources](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources)
