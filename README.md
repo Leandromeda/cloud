@@ -1,6 +1,7 @@
-INSCRIÇÃO: [CLIQUE AQUI!](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true)
+# Introdução
 
-Créditos: [AQUI](https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_AUG22-82)
+- [Inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true)
+- [Solicitação de Créditos ao Professor](https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_AUG22-82)
 
 # Google Cloud Computing Foundations
 
