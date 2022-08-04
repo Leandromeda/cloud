@@ -7,7 +7,7 @@
 - Inicie o laboratório e aguarde 7 minutos;
 - Finalize o laboratório e verifique se você recebeu 201 créditos.
 
-# Formulário 03/08/2022
+# Formulário (Prof. Leandro)
 
 [CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7)
 
