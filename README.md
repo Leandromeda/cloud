@@ -7,6 +7,10 @@
 - Inicie o laboratório e aguarde 7 minutos;
 - Finalize o laboratório e verifique se você recebeu 201 créditos.
 
+# Formulário 03/08/2022
+
+[CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7)
+
 # Google Cloud Computing Foundations
 
 - Desafio 1: [Create and Manage Cloud Resources](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources)
