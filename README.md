@@ -1,6 +1,6 @@
-# Introdução
+<head><base target="_blank">
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+# Introdução
 
 - Se você não tiver uma, crie uma [conta Google](https://accounts.google.com/SignUp?continue=https://myaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button);
 - Faça a [inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true) no Google Skill Boost pelo SENAI;
