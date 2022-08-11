@@ -16,13 +16,15 @@ O **GitHub** não possibilita que links abram em novas abas, para resolver, cliq
 
 # Google Cloud Computing Foundations
 
-- Desafio 1: [Create and Manage Cloud Resources](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources)
+Antes de iniciar, inscreva-se nas trilhas clicando no botão "**Increva-se nesta Quest**" pesente no link delas.
 
-- Desafio 2: [Perform Foundational Infraestructure Tasks](https://github.com/Leandromeda/Cloud/wiki/Desafio-2-%7C-Perform-Foundational-Infraestructure-Tasks)
+- [Trilha 1](https://www.cloudskillsboost.google/quests/120) | [Desafio 1](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources): Create and Manage Cloud Resources
 
-- Desafio 3: [Build and Secure Networks](https://github.com/Leandromeda/Cloud/wiki/Desafio-3-%7C-Build-and-Secure-Networks)
+- [Trilha 2](https://www.cloudskillsboost.google/quests/118) | [Desafio 2](https://github.com/Leandromeda/Cloud/wiki/Desafio-2-%7C-Perform-Foundational-Infraestructure-Tasks): Perform Foundational Infraestructure Tasks
 
-- Desafio 4: [Perform Foundational Data, ML and AI Tasks](https://github.com/Leandromeda/Cloud/wiki/Desafio-4-%7C-Perform-Foundational-Data,-ML-and-AI-Tasks)
+- [Trilha 3](https://www.cloudskillsboost.google/quests/128) | [Desafio 3](https://github.com/Leandromeda/Cloud/wiki/Desafio-3-%7C-Build-and-Secure-Networks): Build and Secure Networks
+
+- [Trilha 4](https://www.cloudskillsboost.google/quests/117) | [Desafio 4](https://github.com/Leandromeda/Cloud/wiki/Desafio-4-%7C-Perform-Foundational-Data,-ML-and-AI-Tasks): Perform Foundational Data, ML and AI Tasks
 
 ## Selos de Habilidade
 
