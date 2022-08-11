@@ -16,7 +16,7 @@ O **GitHub** não possibilita que links abram em novas abas, para resolver, cliq
 
 # Google Cloud Computing Foundations
 
-Antes de iniciar, inscreva-se nas trilhas clicando no botão "**Increva-se nesta Quest**" pesente no link delas.
+Antes de iniciar, inscreva-se nas **trilhas** clicando no botão "**Increva-se nesta Quest**" pesente no link delas.
 
 - [Trilha 1](https://www.cloudskillsboost.google/quests/120) | [Desafio 1](https://github.com/Leandromeda/Cloud/wiki/Desafio-1-%7C-Create-and-Manage-Cloud-Resources): Create and Manage Cloud Resources
 
