@@ -10,9 +10,7 @@ O **GitHub** não possibilita que links abram em novas abas, para resolver, cliq
 - Se recebeu, aguarde 7 minutos, do contrário, encerre o laboratório e repita o processo saindo da sua conta;
 - Finalize o laboratório e verifique se você recebeu 201 créditos.
 
-# Formulário (Prof. Leandro)
-
-[CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7)
+#### Formulário (Prof. Leandro): [CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7)
 
 # Google Cloud Computing Foundations
 
