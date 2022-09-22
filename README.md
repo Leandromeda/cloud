@@ -1,5 +1,7 @@
 # Introdução
 
+Este é um **Guia Rápido**, clique no link a seguir para acessar o [GUIA COMPLETO](https://github.com/Leandromeda/Cloud/raw/GCP-Foundations/Cr%C3%A9ditos.pdf).
+
 O **GitHub** não possibilita que links abram em novas abas, para resolver, clique nos links segurando a tecla **Ctrl**.
 
 - Se você não tiver uma, crie uma [conta Google](https://accounts.google.com/SignUp?continue=https://myaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button);
