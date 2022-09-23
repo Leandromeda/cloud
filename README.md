@@ -42,6 +42,14 @@ Antes de iniciar, inscreva-se nas **trilhas** clicando no botão "**Increva-se n
 [![image](https://user-images.githubusercontent.com/105340567/181305860-ba07d15d-9e4e-4dab-a8e4-776353ecbed2.png)](https://google.qwiklabs.com/course_templates/155)
 [![image](https://user-images.githubusercontent.com/105340567/181305904-92bd7ae4-6e25-4142-bed0-ad2583cd0811.png)](https://google.qwiklabs.com/course_templates/156)
 
+# Conclusão
+
+Ao concluir a obtenção dos 4 selos obrigatórios, registre seu **perfil público** no banco de talentos a seguir:
+
+- [Oportunidades SENAI-SP](https://oportunidades.sp.senai.br/)
+
+Acesse utilizando seu **CPF** e, na senha, sua **data de nascimento completa com barras** (ex.: **10/09/2005**). 
+
 #
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
