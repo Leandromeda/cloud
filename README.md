@@ -7,7 +7,7 @@ O **GitHub** não possibilita que links abram em novas abas, para resolver, cliq
 - Se você não tiver uma, crie uma [conta Google](https://accounts.google.com/SignUp?continue=https://myaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button);
 - Faça a [inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true) no Google Skill Boost pelo SENAI;
 - Saia da conta Google Skill Boost;
-- Acesse o link do [laboratório introdutório](https://www.cloudskillsboost.google/focuses/2794?parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_AUG22-82) e entre na sua conta Google Skill Boost novamente;
+- Acesse o link do [laboratório introdutório](https://www.cloudskillsboost.google/focuses/2794?locale=en&parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27) e entre na sua conta Google Skill Boost novamente;
 - Inicie o laboratório e verifique ao clicar na foto do seu perfil se você recebeu 1 crédito;
 - Se recebeu, aguarde 7 minutos, do contrário, encerre o laboratório e repita o processo saindo da sua conta;
 - Finalize o laboratório e verifique se você recebeu 201 créditos.
