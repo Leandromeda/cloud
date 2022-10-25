@@ -42,7 +42,7 @@ Antes de iniciar, inscreva-se nas **trilhas** clicando no botão "**Increva-se n
 [![image](https://user-images.githubusercontent.com/105340567/181305860-ba07d15d-9e4e-4dab-a8e4-776353ecbed2.png)](https://google.qwiklabs.com/course_templates/155)
 [![image](https://user-images.githubusercontent.com/105340567/181305904-92bd7ae4-6e25-4142-bed0-ad2583cd0811.png)](https://google.qwiklabs.com/course_templates/156) -->
 
-# Anexos
+## Anexos
 
 - [Folha de referência da CLI gcloud](https://cloud.google.com/sdk/docs/cheatsheet?hl=pt-br) (_Cheat sheet_ para uso no Google Cloud Shell)
 - [Diagrama resumido de comandos CLI gcloud](https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf?hl=pt-br) [PDF]
