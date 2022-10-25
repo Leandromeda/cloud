@@ -5,12 +5,12 @@ Este é um **Guia Rápido**, clique no link a seguir para acessar o [GUIA COMPLE
 O **GitHub** não possibilita que links abram em novas abas, para resolver, clique nos links segurando a tecla **Ctrl**.
 
 - Se você não tiver uma, crie uma [conta Google](https://accounts.google.com/SignUp?continue=https://myaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button);
-- Faça a [inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true) no Google Skill Boost pelo SENAI;
-- Saia da conta Google Skill Boost;
-- Acesse o link do [laboratório introdutório](https://www.cloudskillsboost.google/focuses/2794?locale=en&parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27) e entre na sua conta Google Skill Boost novamente;
-- Inicie o laboratório e verifique ao clicar na foto do seu perfil se você recebeu 1 crédito;
-- Se recebeu, aguarde 7 minutos, do contrário, encerre o laboratório e repita o processo saindo da sua conta;
-- Finalize o laboratório e verifique se você recebeu 201 créditos.
+- Faça a [inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true) no Google Skills Boost pelo SENAI;
+- Saia da conta Google Skills Boost;
+- Acesse o link do [laboratório introdutório](https://www.cloudskillsboost.google/focuses/2794?locale=en&parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27) e entre na sua conta Google Skills Boost novamente;
+- Inicie o laboratório e, ao clicar na sua foto de perfil, verifique se você recebeu 1 crédito, do contrário, saia da conta e repita o passo acima;
+- Realize a tarefa sugerida pelo laboratório e aguarde 7 minutos;
+- Finalize o laboratório e verifique se você recebeu 201 créditos, pressionando F5 para atualizar a página.
 
 #### Formulário (Prof. Leandro): [CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7)
 
