@@ -46,6 +46,7 @@ Antes de iniciar, inscreva-se nas **trilhas** clicando no botão "**Increva-se n
 
 - [Folha de referência da CLI gcloud](https://cloud.google.com/sdk/docs/cheatsheet?hl=pt-br) (_Cheat sheet_ para uso no Google Cloud Shell)
 - [Diagrama resumido de comandos CLI gcloud](https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf?hl=pt-br) [PDF]
+- [QWIKLABS Arcade](https://go.qwiklabs.com/arcade) (Até 01:00 do dia 01/10)
 
 # Conclusão
 
