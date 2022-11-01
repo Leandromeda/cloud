@@ -47,6 +47,18 @@ Antes de iniciar, inscreva-se nas **trilhas** clicando no botão "**Increva-se n
 - [Folha de referência da CLI gcloud](https://cloud.google.com/sdk/docs/cheatsheet?hl=pt-br) (_Cheat sheet_ para uso no Google Cloud Shell)
 - [Diagrama resumido de comandos CLI gcloud](https://cloud.google.com/static/sdk/docs/images/gcloud-cheat-sheet.pdf?hl=pt-br) [PDF]
 - [QWIKLABS Arcade](https://go.qwiklabs.com/arcade) (Até 01:00 do dia 01/10)
+- Ao concluir um selo, compartilhe sua conquista no LinkedIn com a mensagem:
+
+```jsx
+SUA MENSAGEM AQUI!
+
+Prof. @Leandro Gaudio Rosa | @SENAI "Ítalo Bologna"
+@Google | @Google Cloud | @Qwiklabs
+
+#Google #GoogleCloud #Cloud #Qwiklabs #SenaiSP
+```
+
+Após colar no **LinkedIn**, clique sobre os nomes com "@" para marcá-los!
 
 # Conclusão
 
@@ -54,7 +66,7 @@ Ao concluir a obtenção dos 4 selos obrigatórios, registre seu **perfil públi
 
 - [Oportunidades SENAI-SP](https://oportunidades.sp.senai.br/)
 
-Acesse utilizando seu **CPF** e, na senha, sua **data de nascimento completa com barras** (ex.: **10/09/2005**). 
+Acesse utilizando seu **CPF** e, na senha, sua **data de nascimento completa com barras** (ex.: **10/09/2005**).
 
 #
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
