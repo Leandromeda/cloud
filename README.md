@@ -8,9 +8,9 @@ O **GitHub** não possibilita que links abram em novas abas, para resolver, cliq
 - Faça a [inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true) no Google Skills Boost pelo SENAI;
 - Saia da conta Google Skills Boost;
 - Acesse o link do [laboratório introdutório](https://www.cloudskillsboost.google/focuses/2794?locale=en&parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27) e entre na sua conta Google Skills Boost novamente;
-- Inicie o laboratório e, ao clicar na sua foto de perfil, verifique se você recebeu 1 crédito, do contrário, saia da conta e repita o passo acima;
+- Inicie o laboratório e, ao clicar na sua foto de perfil, verifique se você recebeu 9 créditos, do contrário, saia da conta e repita o passo acima;
 - Realize a tarefa sugerida pelo laboratório e aguarde 7 minutos;
-- Finalize o laboratório e verifique se você recebeu 201 créditos, pressionando F5 para atualizar a página.
+- Finalize o laboratório e verifique se você recebeu 209 créditos, pressionando F5 para atualizar a página.
 
 #### Formulário (Prof. Leandro): [CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7)
 
