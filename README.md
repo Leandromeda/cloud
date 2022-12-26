@@ -1,10 +1,10 @@
 # Introdução
 
-Este é um **Guia Rápido**, clique no link a seguir para acessar o [GUIA COMPLETO](https://github.com/Leandromeda/Cloud/raw/GCP-Foundations/Cr%C3%A9ditos.pdf).
+<!-- Este é um **Guia Rápido**, clique no link a seguir para acessar o [GUIA COMPLETO](https://github.com/Leandromeda/Cloud/raw/GCP-Foundations/Cr%C3%A9ditos.pdf). -->
 
 O **GitHub** não possibilita que links abram em novas abas, para resolver, clique nos links segurando a tecla **Ctrl**.
 
-- Se você não tiver uma, crie uma [conta Google](https://accounts.google.com/SignUp?continue=https://myaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button);
+<!-- - Se você não tiver uma, crie uma [conta Google](https://accounts.google.com/SignUp?continue=https://myaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button);
 - Faça a [inscrição](https://docs.google.com/forms/d/1jrnRcNC6Sp5F_4N3SrRFQgxMm37LUDNTZd9rkVX6Cls/viewform?edit_requested=true) no Google Skills Boost pelo SENAI;
 - Saia da conta Google Skills Boost;
 - Acesse o link do [laboratório introdutório](https://www.cloudskillsboost.google/focuses/2794?locale=en&parent=catalog&qlcampaign=4p-EDUCR-GCCFSENAISP_OCT22-27) e entre na sua conta Google Skills Boost novamente;
@@ -12,7 +12,7 @@ O **GitHub** não possibilita que links abram em novas abas, para resolver, cliq
 - Realize a tarefa sugerida pelo laboratório e aguarde 7 minutos;
 - Finalize o laboratório e verifique se você recebeu 209 créditos, pressionando F5 para atualizar a página.
 
-#### Formulário (Prof. Leandro): [CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7)
+#### Formulário (Prof. Leandro): [CLIQUE AQUI!](https://forms.gle/R2SfTexHPvsBoHPq7) -->
 
 # Google Cloud Computing Foundations
 
