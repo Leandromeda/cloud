@@ -53,10 +53,10 @@ Antes de iniciar, inscreva-se nas **trilhas** clicando no botão "**Increva-se n
 ```jsx
 SUA MENSAGEM AQUI!
 
-Prof. @Leandro Gaudio Rosa | @SENAI "Ítalo Bologna"
+Prof. @Leandro Gaudio Rosa
 @Google | @Google Cloud | @Qwiklabs
 
-#Google #GoogleCloud #Cloud #Qwiklabs #SenaiSP
+#Google #GoogleCloud #Cloud #Qwiklabs
 ```
 
 Após colar no **LinkedIn**, clique sobre os nomes com "@" para marcá-los!
